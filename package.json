@@ -1,0 +1,19 @@
+{
+  "name": "hash_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusoli98/hash_generator.git"
+  },
+  "author": "https://github.com/mateusoli98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateusoli98/hash_generator/issues"
+  },
+  "homepage": "https://github.com/mateusoli98/hash_generator#readme"
+}
